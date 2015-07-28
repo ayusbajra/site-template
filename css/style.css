@@ -2,7 +2,17 @@
 
 /****** Top Header ******/
 .logo-wrapper img {
+	float: left;
 	margin-top: 25px;
+}
+.page-links {
+	float: right;
+}
+.page-links img {
+	float: left;
+	width: 30px;
+	height: 30px;
+	margin-left: 15px;
 }
 
 /****** Bottom Header ******/
@@ -14,6 +24,10 @@
 	float: left;
 	list-style: none;
 	padding-right: 20px;
+}
+.navbar a {
+	font-weight: bold;
+	color: #2c3e50;
 }
 .navbar a:hover {
 	color: #27ae60;
