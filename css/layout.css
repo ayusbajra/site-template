@@ -1,0 +1,61 @@
+.clearfix {
+	display: table;
+}
+.wrapper {
+	min-width: 1000px;
+}
+/* Top Header */
+.top-header {
+	height: 150px;
+	background: #27ae60;
+}
+.logo-wrapper {
+	width: 940px;
+	height: 150px;
+	margin: 0px auto;
+}
+/* Bottom Header */
+.bottom-header {
+	height: 50px;
+	background: #ffffff;
+}
+.navigation-wrapper {
+	width: 940px;
+	height: 50px;
+	margin: 0px auto;
+}
+
+
+/* Layout Wrapper */
+.layout-wrapper {
+	background: #34495e;
+}
+.col2-right-layout {
+	margin: 0px auto;
+	width: 940px;
+}
+
+/* Main Column*/
+.col-main {
+	float: left;
+	width: 650px;
+}
+
+
+/* Right Sidebar*/
+.col-right {
+	float: right;
+	width: 250px;
+}
+
+/* Footer */
+.footer-wrapper {
+	height: 50px;
+	background: #ffffff;
+}
+.footer {
+	width: 940px;
+	height: 50px;
+	line-height: 50px;
+	margin: 0px auto;
+}
